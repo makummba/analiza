@@ -3,3 +3,6 @@ pandas
 matplotlib
 seaborn
 plotly
+wordcloud
+intertools
+WordCloud
