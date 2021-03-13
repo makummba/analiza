@@ -4,5 +4,3 @@ matplotlib
 seaborn
 plotly
 wordcloud
-intertools
-wordcloud
