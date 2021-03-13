@@ -5,4 +5,4 @@ seaborn
 plotly
 wordcloud
 intertools
-WordCloud
+wordcloud
